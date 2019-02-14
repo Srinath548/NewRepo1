@@ -18,6 +18,8 @@ public class DemoTest {
 		int e=60;
 		int f=100;
 		Assert.assertEquals(300, a+b+c+d+e+f);		
+		
+		System.out.println("...Test done....");
 	}
 	
 	@Test
