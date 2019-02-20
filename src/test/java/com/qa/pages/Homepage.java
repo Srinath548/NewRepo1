@@ -4,7 +4,7 @@ public class Homepage {
 
 	public void homePage()
 	{
-		System.out.println("Home page");
+		System.out.println("Praveen's Home page");
 	}
 	
 	
