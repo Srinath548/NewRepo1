@@ -4,7 +4,9 @@ public class Homepage {
 
 	public void homePage()
 	{
-		System.out.println("Praveen's New Home page");
+		System.out.println("Gajendra1 New Home page");
+		
+		System.out.println("Gajendra2 New Home page");
 	}
 	
 	
